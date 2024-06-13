@@ -12,3 +12,5 @@ Created by:
 Jefferson Delfin
 Boniffer Balibagon
 Eliezer Coquilla
+
+!!! RUN the index.html for the source code of the WEBSITE !!!
