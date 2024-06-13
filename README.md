@@ -13,4 +13,6 @@ Jefferson Delfin
 Boniffer Balibagon
 Eliezer Coquilla
 
+To see the sample of the website RUN the INDEX.html
+
 !!! RUN the index.html for the source code of the WEBSITE !!!
